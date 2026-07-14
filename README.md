@@ -13,5 +13,3 @@
 `Node.js` `Python` `NestJS` `PostgreSQL` `Redis` `Docker` `OpenAI` `Gemini` `Selenium`
 
 ---
-
-## 📌 Featured Projects (Pinned Below 👇)
