@@ -184,9 +184,5 @@ React • Express • MongoDB
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=nikhil111111&color=blue&style=flat-square">
-</p>
-
-<p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
