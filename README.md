@@ -144,14 +144,11 @@ React • Express • MongoDB
 - Admin Dashboard
 
 🔗 Repository
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhil111111&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil111111&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nikhil111111&theme=github-dark&hide_border=true" />
 </p>
@@ -171,7 +168,7 @@ React • Express • MongoDB
 - 🏆 Top 50 — HackOverflow Hackathon
 - 📈 NIMCET AIR 554
 
-- ## 📫 Let's Connect
+## 📫 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/nikhil-garg-6539911a3">
